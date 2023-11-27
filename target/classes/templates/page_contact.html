@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Favicon -->
+    <link th:href="@{img/favicon.ico}" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link th:href="@{lib/owlcarousel/assets/owl.carousel.min.css}" rel="stylesheet">
+    <link th:href="@{lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css}" rel="stylesheet" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link th:href="@{css/style.css}" rel="stylesheet">
+
+    <title>Contact - Aluminum Design</title>
+</head>
+<body>
+<div th:replace="~{fragments/navbar}"></div>
+<div th:replace="~{fragments/carousel_pagination}"></div>
+<div th:replace="~{fragments/contact}"></div>
+<main>
+
+</main>
+<div th:replace="~{fragments/footer}"></div>
+
+
+<!-- Back to Top -->
+<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+<!-- JavaScript Libraries -->
+<script th:src="@{js/jquery-3.4.1.min.js}"></script>
+<script th:src="@{js/bootstrap.bundle.min.js}"></script>
+<script th:src="@{lib/easing/easing.min.js}"></script>
+<script th:src="@{lib/owlcarousel/owl.carousel.min.js}"></script>
+<script th:src="@{lib/tempusdominus/js/moment.min.js}"></script>
+<script th:src="@{lib/tempusdominus/js/moment-timezone.min.js}"></script>
+<script th:src="@{lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js}"></script>
+
+<!-- Template Javascript -->
+<script th:src="@{js/main.js}"></script>
+</body>
+</html>
