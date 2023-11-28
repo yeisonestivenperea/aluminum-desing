@@ -1,11 +1,14 @@
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/HomeController.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/AboutController.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/model/Product.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/model/Price.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/service/PriceRepository.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/ServicesController.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/QuoteProductController.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/AluminumDesignApplication.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/ContactController.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/controller/model/ResponseQuote.java
-/workspaces/aluminum-desing/src/main/java/com/projects/aluminumdesign/service/PriceService.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\QuoteProductController.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\AboutController.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\model\Product.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\model\ResponseQuote.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\model\Quote.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\ServicesController.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\service\QuoteService.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\model\Price.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\service\PriceRepository.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\service\QuoteRepository.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\HomeController.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\AluminumDesignApplication.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\controller\ContactController.java
+C:\Users\Yeison Perea\Documents\NetBeansProjects\AluminunDesign\src\main\java\com\projects\aluminumdesign\service\PriceService.java
